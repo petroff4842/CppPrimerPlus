@@ -13,3 +13,5 @@
 *.ilk
 *.ipch
 *.sdf
+*.db
+*.htm
